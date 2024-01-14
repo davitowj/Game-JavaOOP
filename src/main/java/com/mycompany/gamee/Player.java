@@ -3,7 +3,7 @@ package com.mycompany.gamee;
 public class Player {
     //atribut
     String name, nameE;
-    int speed, speedE, healthPoint=100, damage, armor=20, healthPointE, armorE=15, damageE;
+    int speed, speedE, healthPoint, damage, armor, healthPointE, armorE, damageE;
      
     //menthod lari
     void run(){
